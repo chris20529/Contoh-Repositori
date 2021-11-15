@@ -8,3 +8,7 @@ Jadwal harian
 
 Tambahan shalat sunnah
 1. shalat qobliyah subuh
+2. shalat qobliyah dzuhur
+3. shalat qobliyah ashar
+4. shalat qobliyah mahgrib
+5. shalat qobliyah isya
