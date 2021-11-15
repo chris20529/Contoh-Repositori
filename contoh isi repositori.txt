@@ -1,0 +1,7 @@
+Jadwal harian
+1. shalat tahajud
+2. shalat subuh
+3. shalat dhuha
+4. shalat ashar
+5. shalat mahgrib
+6. shalat isya
