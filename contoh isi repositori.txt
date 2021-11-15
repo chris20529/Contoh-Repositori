@@ -5,3 +5,6 @@ Jadwal harian
 4. shalat ashar
 5. shalat mahgrib
 6. shalat isya
+
+Tambahan shalat sunnah
+1. shalat qobliyah subuh
